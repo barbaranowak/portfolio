@@ -57,47 +57,4 @@ $('a').click(function(event){
 });
 
 
-// const html = $("#html");
-// const html_p = $(".html_div");
-// const css = $("#css");
-// const css_p = $(".css_div");
-// const js = $("#js");
-// const js_p = $(".js_div");
-// const jq = $("#jquery");
-// const jqp = (".jquery_div");
-//
-// html.on("mouseover", function(){
-//   html_p.addClass("show");
-// });
-//
-// html.on("mouseout", function(){
-//   html_p.removeClass("show");
-// });
-//
-// css.on("mouseover", function(){
-//   css_p.addClass("show");
-// });
-//
-// css.on("mouseout", function(){
-//   css_p.removeClass("show");
-// });
-//
-// js.on("mouseover", function(){
-//   js_p.addClass("show");
-// });
-//
-// js.on("mouseout", function(){
-//   js_p.removeClass("show");
-// });
-//
-// jq.on("mouseover", function(){
-//   jqp.addClass("show");
-// });
-//
-// jq.on("mouseout", function(){
-//   jqp.removeClass("show");
-// });
-//
-
-
 });
