@@ -36,7 +36,7 @@ clickonme.on("click", function(){
   avatar1.addClass("avatar_1");
   hello.addClass("hide");
   info.addClass("show");
-  arrow.fadeIn(2500);
+  arrow.fadeIn(50);
 });
 
 
